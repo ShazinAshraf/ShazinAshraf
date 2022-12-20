@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShazinAshraf
-- 👀 Interested in Data Analytics
-- 🌱 Currently learning Python, SQL, and PowerBI
+- 👀 BI & Data Analytics Enthusiast
+- 🌱 Expertise in PowerBI, SQL, and Python. Good knowledge of Statistics.
 - 📫 reach me https://www.linkedin.com/in/shazin-ashraf-014093183/
 
 <!---
